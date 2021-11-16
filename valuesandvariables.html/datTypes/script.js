@@ -1,0 +1,14 @@
+var isIsland;
+var population;
+var country;
+var language;
+var isIsland='hyder';
+var  hyder="true";
+var population=1234;
+var country='indi';
+var language="telu";
+console.log(isIsland);
+console.log(hyder);
+console.log(population);
+console.log(country);
+console.log(language);

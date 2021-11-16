@@ -1,0 +1,11 @@
+var is the old way of declaring the variables
+
+let and const variable declaration were introduced in latest es6 features.
+var:
+we declare the variables using the let where we can change the values 
+example: price of the goods.
+const:
+the variable declared with const cannot be changed.
+const A=10;
+const A=30;
+once the variable assigned with the const cannot be changed.

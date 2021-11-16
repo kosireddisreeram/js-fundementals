@@ -1,0 +1,10 @@
+var country=10000;
+country=country/2;
+console.log(country);
+console.log(country+1);
+var finland= 60000;
+console.log(finland>country);
+var avgpo=12345;
+console.log(avgpo<country);
+var description=`portugal is in europe and it population is 11 million speak portugueese`;
+console.log(description);

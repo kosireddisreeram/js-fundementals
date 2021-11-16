@@ -1,0 +1,14 @@
+datastructures:
+values are of two types:
+
+objects :
+let me = {
+    name:'jonas';
+}
+numbers- numbers
+string = "" strings are sentences
+boolean  = it may be true or false
+undefined  = value not defined ex: var A = ;
+null = value not defined
+symbol =  
+bigint = larger numbers whic hwe annot declare in the numbers .

@@ -1,0 +1,41 @@
+there are three ways to declare a variable
+let
+var 
+const 
+
+var keyword :
+All javascript variables must be identified with unique names
+'use strict'
+var A=10;
+var B=20;
+var C=A+B;
+console.log(C);
+if we declare strict in it we cannot assign the vakues to the variables before declaring it
+the above must be wriiten as 
+'use strict'
+
+var A,B,C;
+var A=10;
+var B=20;
+var C=A+B;
+console.log(c);
+then only after declaring the variables we can assign the values to it. 
+output will be 30.
+***********
+we can add the strings but the strings can be concatenated
+we can use the underscore while declaring the names of the variables.
+----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+string literal
+the easiest way define string while updating the values of the variables using the var names.
+syntax:
+const a='';
+const b='';
+const c = ` the value of a is ${a} , the value of b is ${b}`;
+console.log(c);
